@@ -1,0 +1,233 @@
+<mjml>
+  <mj-body background-color="#f8f9fa">
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text align="center" font-size="35px" color="#000">
+          Goddess Glam
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      background-url="./assets/makeup_banner.jpg"
+      background-size="cover"
+      background-repeat="no-repeat"
+      padding="175px 0"
+    >
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column width="400px">
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="600"
+          line-height="25px"
+          font-family="Helvetica Neue"
+          color="#000"
+          >Experience Elegance Unleashed Elevate Your Beauty Journey</mj-text
+        >
+
+        <mj-text align="center" line-height="18px" color="#000">
+          Indulge in a world of sophistication and allure. Our carefully crafted
+          collection is tailored to enhance your unique charm and style. Embrace
+          the moment, embrace yourself. Discover the essence of beauty that
+          defines you.
+        </mj-text>
+
+        <mj-button background-color="#000" href="#">Learn more</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-image
+          width="200px"
+          src="https://www.sephora.com/productimages/sku/s1802412-main-zoom.jpg?imwidth=500"
+        />
+        <mj-text font-size="20px" align="center"
+          >Brazilian Bum Bum Firming Body Cream</mj-text
+        >
+        <mj-text align="center"
+          >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna.</mj-text
+        >
+        <mj-text font-size="18px" align="center">$48.00</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image
+          width="200px"
+          src="https://www.sephora.com/productimages/sku/s2703726-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=320"
+        />
+        <mj-text font-size="20px" align="center"
+          >Rich Cushion Cream Moisturizer</mj-text
+        >
+        <mj-text align="center"
+          >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna.</mj-text
+        >
+        <mj-text font-size="18px" align="center">$52.00</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-image
+          width="200px"
+          src="https://www.sephora.com/productimages/sku/s2414845-main-zoom.jpg?pb=2023-03-sephora-value-2023&imwidth=500"
+        />
+        <mj-text font-size="20px" align="center">
+          3-in-1 Pencil Sharpener
+        </mj-text>
+        <mj-text align="center"
+          >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna.</mj-text
+        >
+        <mj-text font-size="18px" align="center"> $6.00 </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image
+          width="200px"
+          src="https://www.sephora.com/productimages/sku/s2249688-main-zoom.jpg?imwidth=500"
+        />
+        <mj-text font-size="20px" align="center">Donna Born Parfum</mj-text>
+        <mj-text align="center"
+          >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna.</mj-text
+        >
+        <mj-text font-size="18px" align="center">$130.00</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-image
+          width="200px"
+          src="https://www.sephora.com/productimages/sku/s2598449-main-zoom.jpg?pb=2023-03-sephora-value-2023&imwidth=500"
+        />
+        <mj-text font-size="20px" align="center"
+          >Ready to Roll Brush Set</mj-text
+        >
+        <mj-text align="center"
+          >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna.</mj-text
+        >
+        <mj-text font-size="18px" align="center">72.00</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image
+          width="200px"
+          src="https://www.sephora.com/productimages/sku/s2598472-main-zoom.jpg?pb=2023-03-sephora-value-2023&imwidth=500"
+        />
+        <mj-text font-size="20px" align="center">Pink Face Sponge</mj-text>
+        <mj-text align="center"
+          >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna.</mj-text
+        >
+        <mj-text font-size="18px" align="center">$4.50</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-image width="200px" src="./assets/product-image.jpg" />
+      </mj-column>
+
+      <mj-column>
+        <mj-text
+          font-style="italic"
+          font-size="20px"
+          font-family="Helvetica Neue"
+          color="#000"
+        >
+          Find amazing products
+        </mj-text>
+
+        <mj-text line-height="16px" color="#000">
+          From vibrant eyeshadow palettes that bring out your unique
+          personality, to long-lasting foundations that provide a flawless
+          finish, our range has something for every makeup enthusiast.
+        </mj-text>P
+
+        <mj-text line-height="16px" color="#000">
+          Visit our website or drop by our store to explore the latest trends,
+          classic essentials, and innovative formulations that will surely
+          become staples in your makeup arsenal.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-button align="center" background-color="#000" href="#"
+          >Shop Produts</mj-button
+        >
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#000">
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="35px" color="#000">
+          Goddess Glam
+        </mj-text>
+        <mj-text
+          align="center"
+          line-height="1px"
+          color="#fff"
+          font-size="14px"
+          color="#000"
+        >
+          © 2023 Goddess Glam
+        </mj-text>
+        <mj-text
+          align="center"
+          line-height="1px"
+          color="#fff"
+          font-size="14px"
+          color="#000"
+        >
+          4713 Single Street, Malden, Massachusetts 02148
+        </mj-text>
+        <mj-text
+          align="center"
+          line-height="1px"
+          color="#fff"
+          font-size="14px"
+          color="#000"
+        >
+          (555) 555-5555
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#000">
+      <mj-column>
+        <mj-social>
+          <mj-social-element
+            icon-size="25px"
+            href="url"
+            src="/assets/icons8-facebook-24.png"
+          >
+          </mj-social-element>
+          <mj-social-element
+            icon-size="25px"
+            href="url"
+            src="/assets/icons8-instagram-24.png"
+          >
+          </mj-social-element>
+          <mj-social-element
+            icon-size="25px"
+            href="url"
+            src="/assets/icons8-twitter-24.png"
+          >
+          </mj-social-element>
+          <mj-social-element
+            icon-size="25px"
+            href="url"
+            src="/assets/icons8-snapchat-24.png"
+          >
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
